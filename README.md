@@ -445,6 +445,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-touch-id ★170](https://github.com/naoufal/react-native-touch-id) - React Native authentication with the native Touch ID popup.
 - [react-native-voip-push-notification ★7](https://github.com/ianlin/react-native-voip-push-notification) - iOS prioritized VoIP Push Notification
 - [react-native-wifi-manager ★6](https://github.com/skierkowski/react-native-wifi-manager) - Wifi Connection Manager for React Native on Android
+- [react-native-notifications ★37](https://github.com/wix/react-native-notifications) - React Native Remote and Local Notifications, Interactive Notifications, Managed Notifications, PushKit Framework and more.
 
 
 ### Web
